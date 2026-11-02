@@ -13,20 +13,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shakibweg/cadence/releases/download/v1.1.0/cadence-1.1.0.zip">
-    <img src="https://img.shields.io/badge/Download%20Extension-v1.1.0%20ZIP-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download Extension v1.1.0 ZIP" />
+  <a href="https://github.com/shakibzcv/cadence/releases/download/v1.0.0/cadence-1.0.0.zip">
+    <img src="https://img.shields.io/badge/Download%20Extension-v1.0.0%20ZIP-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Download Extension v1.0.0 ZIP" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://shakibweg.github.io/cadence/">
+  <a href="https://shakibzcv.github.io/cadence/">
     <img src="https://img.shields.io/badge/Official%20Website-Visit%20Site-10b981?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Official Website" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/shakibweg/cadence">
+  <a href="https://github.com/shakibzcv/cadence">
     <img src="https://img.shields.io/badge/GitHub%20Repo-Cadence-6366f1?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Repository" />
   </a>
 </p>
 
-> Maintained by [Shakib Khan (`@shakibweg`)](https://github.com/shakibweg)
+> Maintained by [Shakib Khan (`@shakibzcv`)](https://github.com/shakibzcv)
 
 ---
 
@@ -220,7 +220,7 @@ cadence/
 
 ### 📦 Quick Install (Unpacked Extension)
 
-1. Download the [cadence-1.1.0.zip](https://github.com/shakibweg/cadence/releases/download/v1.1.0/cadence-1.1.0.zip) archive directly or visit [Releases](https://github.com/shakibweg/cadence/releases).
+1. Download the [cadence-1.0.0.zip](https://github.com/shakibzcv/cadence/releases/download/v1.0.0/cadence-1.0.0.zip) archive directly or visit [Releases](https://github.com/shakibzcv/cadence/releases).
 2. Unpack the zip file (or point to `chrome-extension/dist`).
 3. Open Google Chrome and navigate to `chrome://extensions/`.
 4. Enable **"Developer mode"** in the top-right corner.
@@ -231,7 +231,7 @@ cadence/
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/shakibweg/cadence.git
+git clone https://github.com/shakibzcv/cadence.git
 cd cadence/chrome-extension
 
 # 2. Install dependencies
@@ -343,10 +343,10 @@ We are committed to fostering a welcoming and inclusive community. All contribut
 
 ## Contact
 
-- **Author & Maintainer:** Shakib Khan ([@shakibweg](https://github.com/shakibweg))
-- **Email:** [shakibweg@gmail.com](mailto:shakibweg@gmail.com)
-- **GitHub Repository:** [github.com/shakibweg/cadence](https://github.com/shakibweg/cadence)
-- **Issue Tracker:** [github.com/shakibweg/cadence/issues](https://github.com/shakibweg/cadence/issues)
+- **Author & Maintainer:** Shakib Khan ([@shakibzcv](https://github.com/shakibzcv))
+- **Email:** [shakibzcv@gmail.com](mailto:shakibzcv@gmail.com)
+- **GitHub Repository:** [github.com/shakibzcv/cadence](https://github.com/shakibzcv/cadence)
+- **Issue Tracker:** [github.com/shakibzcv/cadence/issues](https://github.com/shakibzcv/cadence/issues)
 
 ---
 
@@ -354,4 +354,4 @@ We are committed to fostering a welcoming and inclusive community. All contribut
 
 This project is licensed under the [MIT License](LICENSE).
 
-&copy; 2026 [Shakib Khan (`@shakibweg`)](https://github.com/shakibweg). All rights reserved.
+&copy; 2026 [Shakib Khan (`@shakibzcv`)](https://github.com/shakibzcv). All rights reserved.

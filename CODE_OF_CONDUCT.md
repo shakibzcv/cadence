@@ -89,9 +89,9 @@ Maintainers have the right and responsibility to remove, edit, or reject comment
 
 If you experience, witness, or are informed of unacceptable behavior, please report the incident directly to the project maintainer:
 
-- **Maintainer:** Shakib Khan ([@shakibweg](https://github.com/shakibweg))
-- **Email:** [shakibweg@gmail.com](mailto:shakibweg@gmail.com)
-- **GitHub Profile:** [`https://github.com/shakibweg`](https://github.com/shakibweg)
+- **Maintainer:** Shakib Khan ([@shakibzcv](https://github.com/shakibzcv))
+- **Email:** [shakibzcv@gmail.com](mailto:shakibzcv@gmail.com)
+- **GitHub Profile:** [`https://github.com/shakibzcv`](https://github.com/shakibzcv)
 
 When submitting a report, please include as much context as possible (description, dates, links, screenshots). All reports will be reviewed promptly and investigated with strict confidentiality.
 
@@ -131,6 +131,6 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcem
 
 For any questions regarding this Code of Conduct, suggestions for improvement, or assistance, please reach out to:
 
-- **Shakib Khan** ([@shakibweg](https://github.com/shakibweg))
-- **Email:** [shakibweg@gmail.com](mailto:shakibweg@gmail.com)
-- **Project Repository:** [github.com/shakibweg/cadence](https://github.com/shakibweg/cadence)
+- **Shakib Khan** ([@shakibzcv](https://github.com/shakibzcv))
+- **Email:** [shakibzcv@gmail.com](mailto:shakibzcv@gmail.com)
+- **Project Repository:** [github.com/shakibzcv/cadence](https://github.com/shakibzcv/cadence)

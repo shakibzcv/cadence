@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to **Cadence**! 🎉
 
-Whether you are fixing a bug, adding support for a new subtitle format, optimizing translation throughput, or improving documentation, your contributions are sincerely appreciated. This project is created and maintained by [Shakib Khan (`@shakibweg`)](https://github.com/shakibweg).
+Whether you are fixing a bug, adding support for a new subtitle format, optimizing translation throughput, or improving documentation, your contributions are sincerely appreciated. This project is created and maintained by [Shakib Khan (`@shakibzcv`)](https://github.com/shakibzcv).
 
 ---
 
@@ -85,7 +85,7 @@ Before starting development, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/shakibweg/cadence.git
+git clone https://github.com/shakibzcv/cadence.git
 cd cadence
 ```
 
@@ -202,7 +202,7 @@ Please note that this project is governed by the [Code of Conduct](CODE_OF_CONDU
 
 ## Contact
 
-- **Author & Maintainer:** Shakib Khan ([@shakibweg](https://github.com/shakibweg))
-- **Email:** [shakibweg@gmail.com](mailto:shakibweg@gmail.com)
-- **GitHub Discussions:** [github.com/shakibweg/cadence/discussions](https://github.com/shakibweg/cadence/discussions)
-- **Issue Tracker:** [github.com/shakibweg/cadence/issues](https://github.com/shakibweg/cadence/issues)
+- **Author & Maintainer:** Shakib Khan ([@shakibzcv](https://github.com/shakibzcv))
+- **Email:** [shakibzcv@gmail.com](mailto:shakibzcv@gmail.com)
+- **GitHub Discussions:** [github.com/shakibzcv/cadence/discussions](https://github.com/shakibzcv/cadence/discussions)
+- **Issue Tracker:** [github.com/shakibzcv/cadence/issues](https://github.com/shakibzcv/cadence/issues)
